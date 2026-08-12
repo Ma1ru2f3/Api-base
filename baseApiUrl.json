@@ -8,14 +8,14 @@
       "url": "https://bby-api-fs3p.onrender.com"
     },
 
-    "Album-api": {
+    "album-api": {
       "name": "Album-api",
       "url": "https://album-api-u8ug.onrender.comapi/album2/maruf"
     },
 
-    "teach": {
-      "name": "Teach API",
-      "url": "https://your-teach-api.com"
+    "image-api": {
+      "name": "Image-api",
+      "url": "https://image-api-udn7.onrender.com"
     },
 
     "search": {
