@@ -10,7 +10,7 @@
 
     "album-api": {
       "name": "Album-api",
-      "url": "https://album-api-u8ug.onrender.comapi/album2/maruf"
+      "url": "https://album-api-u8ug.onrender.com/api/album2/maruf"
     },
 
     "image-api": {
@@ -30,7 +30,7 @@
 
     "chat-api": {
       "name": "chat api",
-      "url": "https://your-autotrainer-api.com"
+      "url": "https://chat-api-yvpb.onrender.com"
     }
   }
 }
