@@ -28,8 +28,8 @@
       "url": "https://api-ck8c.onrender.com"
     },
 
-    "autotrainer": {
-      "name": "Auto Trainer API",
+    "chat-api": {
+      "name": "chat api",
       "url": "https://your-autotrainer-api.com"
     }
   }
