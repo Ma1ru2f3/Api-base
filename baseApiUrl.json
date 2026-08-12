@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-08-13",
+
+  "apis": {
+    "main": {
+      "name": "BBY Main API",
+      "url": "https://bby-api-fs3p.onrender.com"
+    },
+
+    "question": {
+      "name": "Question API",
+      "url": "https://your-question-api.com"
+    },
+
+    "teach": {
+      "name": "Teach API",
+      "url": "https://your-teach-api.com"
+    },
+
+    "search": {
+      "name": "Search API",
+      "url": "https://your-search-api.com"
+    },
+
+    "message": {
+      "name": "Message API",
+      "url": "https://your-message-api.com"
+    },
+
+    "autotrainer": {
+      "name": "Auto Trainer API",
+      "url": "https://your-autotrainer-api.com"
+    }
+  }
+}
