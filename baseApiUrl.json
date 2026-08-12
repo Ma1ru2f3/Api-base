@@ -23,9 +23,9 @@
       "url": "https://drive-api-hedc.onrender.com"
     },
 
-    "message": {
-      "name": "Message API",
-      "url": "https://your-message-api.com"
+    "autodl": {
+      "name": "autodl",
+      "url": "https://api-ck8c.onrender.com"
     },
 
     "autotrainer": {
