@@ -8,6 +8,12 @@
       "url": "https://bby-api-fs3p.onrender.com"
     },
 
+    "sing": {
+    "main": {
+      "name": "sing api",
+      "url": "https://bby-api-fs3p.onrender.com"
+    },
+
     "album-api": {
       "name": "Album-api",
       "url": "https://album-api-u8ug.onrender.com/api/album2/maruf"
