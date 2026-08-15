@@ -1,39 +1,31 @@
 {
   "version": "1.0.0",
   "updated": "2026-08-13",
-
   "apis": {
     "main": {
       "name": "BBY Main API",
       "url": "https://bby-api-fs3p.onrender.com"
     },
-
     "sing": {
-    "main": {
       "name": "sing api",
       "url": "https://sing-api-jorr.onrender.com"
     },
-
     "album-api": {
       "name": "Album-api",
       "url": "https://album-api-u8ug.onrender.com/api/album2/maruf"
     },
-
     "image-api": {
       "name": "Image-api",
       "url": "https://image-api-udn7.onrender.com"
     },
-
     "drive-api": {
       "name": "Drive-api",
       "url": "https://drive-api-hedc.onrender.com"
     },
-
     "autodl": {
       "name": "autodl",
       "url": "https://api-ck8c.onrender.com"
     },
-
     "chat-api": {
       "name": "chat api",
       "url": "https://chat-api-yvpb.onrender.com"
