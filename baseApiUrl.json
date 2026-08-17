@@ -3,8 +3,8 @@
   "updated": "2026-08-13",
   "apis": {
     "main": {
-      "name": "BBY Main API",
-      "url": "https://bby-api-4yri.onrender.com/api/maruf"
+    "name": "BBY Main API".
+    "url": "https://bby-api-4yri.onrender.com"
     },
     "sing": {
       "name": "sing api",
