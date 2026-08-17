@@ -4,7 +4,7 @@
   "apis": {
     "main": {
       "name": "BBY Main API",
-      "url": "https://bby-api-4yri.onrender.com"
+      "url": "https://bby-api-4yri.onrender.com/api/maruf"
     },
     "sing": {
       "name": "sing api",
