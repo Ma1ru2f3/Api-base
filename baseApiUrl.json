@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "updated": "2026-08-13",
   "apis": {
-  "main": {
-    "name": "BBY Main API",
-    "url": "https://bby-api-4yri.onrender.com"
+    "main": {
+      "name": "BBY Main API",
+      "url": "https://bby-api-4yri.onrender.com"
     },
     "sing": {
       "name": "sing api",
