@@ -4,7 +4,7 @@
   "apis": {
     "main": {
       "name": "BBY Main API",
-      "url": "https://bby-api-fs3p.onrender.com"
+      "url": "https://bby-api-4yri.onrender.com"
     },
     "sing": {
       "name": "sing api",
@@ -12,7 +12,7 @@
     },
     "album-api": {
       "name": "Album-api",
-      "url": "https://album-api-u8ug.onrender.com/api/album2/maruf"
+      "url": "https://album-api-pjwt.onrender.com/api/album2/maruf"
     },
     "image-api": {
       "name": "Image-api",
@@ -20,7 +20,7 @@
     },
     "drive-api": {
       "name": "Drive-api",
-      "url": "https://drive-api-hedc.onrender.com"
+      "url": "https://image-enhance-api-drive.onrender.com"
     },
     "autodl": {
       "name": "autodl",
