@@ -4,7 +4,7 @@
   "apis": {
     "main": {
       "name": "BBY Main API",
-      "url": "https://bby-api-4yri.onrender.com"
+      "url": "https://api.maruf-x-hub.page.gd/bby"
     },
     "sing": {
       "name": "sing api",
@@ -12,19 +12,19 @@
     },
     "album-api": {
       "name": "Album-api",
-      "url": "https://album-api-pjwt.onrender.com/api/album2/maruf"
+      "url": "https://api.maruf-x-hub.page.gd/album/api/album2/maruf"
     },
     "image-api": {
       "name": "Image-api",
-      "url": "https://image-api-udn7.onrender.com"
+      "url": "https://api.maruf-x-hub.page.gd/image"
     },
     "drive-api": {
       "name": "Drive-api",
-      "url": "https://image-enhance-api-drive.onrender.com"
+      "url": "https://api.maruf-x-hub.page.gd/drive"
     },
     "autodl": {
       "name": "autodl",
-      "url": "https://api-ck8c.onrender.com"
+      "url": "https://api.maruf-x-hub.page.gd/autodl"
     },
     "chat-api": {
       "name": "chat api",
