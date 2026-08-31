@@ -12,7 +12,7 @@
     },
     "album-api": {
       "name": "Album-api",
-      "url": "https://api.maruf-api.abrdns.com/album"
+      "url": "https://api.maruf-api.abrdns.com/album/api/album2/maruf"
     },
     "image-api": {
       "name": "Image-api",
