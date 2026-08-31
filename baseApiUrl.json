@@ -4,31 +4,31 @@
   "apis": {
     "main": {
       "name": "BBY Main API",
-      "url": "https://api.maruf-x-hub.page.gd/bby"
+      "url": "https://api.maruf-api.abrdns.com/bby"
     },
     "sing": {
       "name": "sing api",
-      "url": "https://sing-api-jorr.onrender.com"
+      "url": "https://api.maruf-api.abrdns.com/sing"
     },
     "album-api": {
       "name": "Album-api",
-      "url": "https://api.maruf-x-hub.page.gd/album/api/album2/maruf"
+      "url": "https://api.maruf-api.abrdns.com/album"
     },
     "image-api": {
       "name": "Image-api",
-      "url": "https://api.maruf-x-hub.page.gd/image"
+      "url": "https://api.maruf-api.abrdns.com/image"
     },
     "drive-api": {
       "name": "Drive-api",
-      "url": "https://api.maruf-x-hub.page.gd/drive"
+      "url": "https://api.maruf-api.abrdns.com/drive"
     },
     "autodl": {
       "name": "autodl",
-      "url": "https://api.maruf-x-hub.page.gd/autodl"
+      "url": "https://api.maruf-api.abrdns.com/autodl"
     },
     "chat-api": {
       "name": "chat api",
-      "url": "https://chat-api-yvpb.onrender.com"
+      "url": "https://api.maruf-api.abrdns.com/chat"
     }
   }
 }
