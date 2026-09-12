@@ -26,6 +26,10 @@
       "name": "autodl",
       "url": "https://api.maruf-api.abrdns.com/autodl"
     },
+    "pin": {
+      "name": "pin",
+      "url": "https://api.maruf-api.abrdns.com/pin"
+    },
     "chat-api": {
       "name": "chat api",
       "url": "https://api.maruf-api.abrdns.com/chat"
