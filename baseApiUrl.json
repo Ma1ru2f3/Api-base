@@ -4,39 +4,39 @@
   "apis": {
     "main": {
       "name": "BBY Main API",
-      "url": "https://api.maruf-api.abrdns.com/bby"
+      "url": "https://www.maruf-api.abrdns.com/bby"
     },
     "sing": {
       "name": "sing api",
-      "url": "https://api.maruf-api.abrdns.com/sing"
+      "url": "https://www.maruf-api.abrdns.com/sing"
     },
     "album-api": {
       "name": "Album-api",
-      "url": "https://api.maruf-api.abrdns.com/album/api/album2/maruf"
+      "url": "https://www.maruf-api.abrdns.com/album/api/album2/maruf"
     },
     "image-api": {
       "name": "Image-api",
-      "url": "https://api.maruf-api.abrdns.com/image"
+      "url": "https://www.maruf-api.abrdns.com/image"
     },
     "drive-api": {
       "name": "Drive-api",
-      "url": "https://api.maruf-api.abrdns.com/drive"
+      "url": "https://www.maruf-api.abrdns.com/drive"
     },
     "autodl": {
       "name": "autodl",
-      "url": "https://api.maruf-api.abrdns.com/autodl"
+      "url": "https://www.maruf-api.abrdns.com/autodl"
     },
     "pin": {
       "name": "pin",
-      "url": "https://api.maruf-api.abrdns.com/pin"
+      "url": "https://www.maruf-api.abrdns.com/pin"
     },
     "chat-api": {
       "name": "chat api",
-      "url": "https://api.maruf-api.abrdns.com/chat"
+      "url": "https://www.maruf-api.abrdns.com/chat"
     },
     "ttinfo": {
       "name": "TikTok Info API",
-      "url": "https://api.maruf-api.abrdns.com/ttinfo"
+      "url": "https://www.maruf-api.abrdns.com/ttinfo"
     }
   }
 }
