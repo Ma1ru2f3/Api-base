@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-08-18",
+  "updated": "2026-09-21",
   "apis": {
     "main": {
       "name": "BBY Main API",
@@ -33,6 +33,10 @@
     "chat-api": {
       "name": "chat api",
       "url": "https://api.maruf-api.abrdns.com/chat"
+    },
+    "ttinfo": {
+      "name": "TikTok Info API",
+      "url": "https://api.maruf-api.abrdns.com/ttinfo"
     }
   }
 }
