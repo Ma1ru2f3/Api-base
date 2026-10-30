@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated": "2026-09-21",
+  "version": "1.0.1",
+  "updated": "2026-10-30",
   "apis": {
     "main": {
       "name": "BBY Main API",
@@ -14,10 +14,6 @@
       "name": "Album-api",
       "url": "https://www.maruf-api.abrdns.com/album/api/album2/maruf"
     },
-    "image-api": {
-      "name": "Image-api",
-      "url": "https://www.maruf-api.abrdns.com/image"
-    },
     "drive-api": {
       "name": "Drive-api",
       "url": "https://www.maruf-api.abrdns.com/drive"
@@ -30,13 +26,21 @@
       "name": "pin",
       "url": "https://www.maruf-api.abrdns.com/pin"
     },
-    "chat-api": {
-      "name": "chat api",
-      "url": "https://www.maruf-api.abrdns.com/chat"
-    },
     "ttinfo": {
       "name": "TikTok Info API",
       "url": "https://www.maruf-api.abrdns.com/ttinfo"
+    },
+    "ytdl": {
+      "name": "YouTube DL API",
+      "url": "https://www.maruf-api.abrdns.com/ytdl"
+    },
+    "pair": {
+      "name": "Pair API",
+      "url": "https://www.maruf-api.abrdns.com/pair"
+    },
+    "4k": {
+      "name": "4K HD API",
+      "url": "https://www.maruf-api.abrdns.com/4k"
     }
   }
 }
