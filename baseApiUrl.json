@@ -24,7 +24,7 @@
     },
     "pin": {
       "name": "pin",
-      "url": "https://www.maruf-api.abrdns.com/pin"
+      "url": "https://www.maruf-api.abrdns.com/image"
     },
     "ttinfo": {
       "name": "TikTok Info API",
