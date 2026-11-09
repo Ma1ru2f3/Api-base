@@ -20,7 +20,7 @@
     },
     "autodl": {
       "name": "autodl",
-      "url": "https://www.maruf-api.abrdns.com/autodl"
+      "url": "https://www.maruf-api.abrdns.com/dl"
     },
     "pin": {
       "name": "pin",
